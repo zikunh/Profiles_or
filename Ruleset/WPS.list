@@ -12,3 +12,6 @@ DOMAIN,docteamapi.wps.cn
 DOMAIN,openapp.wpscdn.cn
 DOMAIN,wpsfile-sh.ks3-cn-shanghai.ksyun.com
 DOMAIN,wpsfile.ks3-cn-beijing.ksyun.com
+DOMAIN,wps-file.obs.cn-north-4.myhuaweicloud.com
+DOMAIN,wps-file.obs.cn-north-4.myhuaweicloud.com
+DOMAIN-KEYWORD,wps,REJECT
