@@ -1,0 +1,7 @@
+# Autodesk
+DOMAIN,accounts.autodesk.com
+DOMAIN,messages.api.autodesk.com.s3.amazonaws.com
+DOMAIN,com.autodesk.sync.public.production.s3.amazonaws.com
+DOMAIN-KEYWORD,autodesk,REJECT
+DOMAIN-KEYWORD,solidworks,REJECT
+DOMAIN-KEYWORD,dassault,REJECT
